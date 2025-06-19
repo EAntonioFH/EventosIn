@@ -1,0 +1,37 @@
+#Contenedor
+{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10%;
+}
+
+form
+{
+    border: 1px solid black;
+    width: 40%;
+    background-color: #80b9f3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#LBusqueda
+{
+    margin: 10%;
+    padding: 5%;
+    width: 40%;
+    text-align: center;
+    background-color: #3386da;
+    color: #FFFFFF;
+}
+
+#Busqueda
+{
+    padding: 5%;
+    margin-bottom: 10%;
+    width: 60%;
+    border: 3px solid #0000FD;
+    border-radius: 4em;
+}
