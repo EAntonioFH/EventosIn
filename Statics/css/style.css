@@ -9,7 +9,7 @@
 
 form
 {
-    border: 1px solid black;
+    border: 3px solid #3386da;
     width: 40%;
     background-color: #80b9f3;
     display: flex;
@@ -32,6 +32,15 @@ form
     padding: 5%;
     margin-bottom: 10%;
     width: 60%;
-    border: 3px solid #0000FD;
+    border: 3px solid #3386da;
     border-radius: 4em;
+}
+
+#Despliegue
+{
+    color: #FFFFFF;
+    background-color: #54606d93;
+    border: 3px solid #54606d;
+    display: flex;
+    flex-direction: column;
 }
